@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "JoyStick",
+    "maps": [
+        {
+            "name": "PlayerMovement",
+            "id": "93e7b424-fa2b-4bfb-941c-5382c10ae61a",
+            "actions": [
+                {
+                    "name": "JoyStick",
+                    "type": "Value",
+                    "id": "b6131dad-ee5b-4e2f-bcac-b2f3d06f8168",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c62955b5-ac89-4621-88ba-3e81660173fe",
+                    "path": "<Joystick>/stick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JoyStick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
