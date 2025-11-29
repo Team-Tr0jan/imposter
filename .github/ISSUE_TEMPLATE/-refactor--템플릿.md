@@ -1,6 +1,6 @@
 ---
 name: "[REFACTOR] 템플릿"
-about: Describe this issue template's purpose here.
+about: 리팩토링 작업
 title: "[REFACTOR]"
 labels: ''
 assignees: ''
