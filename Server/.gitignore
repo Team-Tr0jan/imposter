@@ -1,0 +1,47 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+.vs/
+*.swp
+*.DS_Store
+
+
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# Coverage
+*.coverage
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Publish profiles (may contain secrets)
+*.pubxml
+*.publishproj
+*.azurePubxml
+PublishScripts/
+
+# User/cache
+*.rsuser
+*.sln.docstates
+*.userosscache
+
+# Build logs/benchmarks
+*.binlog
+BenchmarkDotNet.Artifacts/
