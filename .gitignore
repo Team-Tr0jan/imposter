@@ -16,6 +16,9 @@ obj/
 x64/
 x86/
 [Ll]og/
+**/Generated/
+!**/Generated/README.md
+AGENTS.md
 
 # Test results
 [Tt]est[Rr]esult*/
